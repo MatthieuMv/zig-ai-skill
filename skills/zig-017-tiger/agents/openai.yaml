@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zig 0.17.0 · Tiger Style"
+  short_description: "Build fast, bounded Zig 0.17.0 code with Tiger Style"
+  default_prompt: "Use $zig-017-tiger to implement and validate this Zig 0.17.0 change under Tiger Style."
